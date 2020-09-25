@@ -20,7 +20,7 @@ https://cdn.jsdelivr.net/gh/user/repo@version/file
 https://cdn.jsdelivr.net/gh/vts2018/themelib@v0.1/read.txt
 
 
-git tag -a v0.6 -m ""
+git tag -a v0.8 -m ""
 
 git push origin --tags
 
