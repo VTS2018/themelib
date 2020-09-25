@@ -13,7 +13,6 @@
 
 
 
-
 https://cdn.jsdelivr.net/gh/jquery/jquery@3.2.1/dist/jquery.min.js
 
 https://cdn.jsdelivr.net/gh/user/repo@version/file
@@ -21,7 +20,7 @@ https://cdn.jsdelivr.net/gh/user/repo@version/file
 https://cdn.jsdelivr.net/gh/vts2018/themelib@v0.1/read.txt
 
 
-git tag -a v0.5 -m ""
+git tag -a v0.6 -m ""
 
 git push origin --tags
 
@@ -31,8 +30,8 @@ https://cdn.jsdelivr.net/gh/oophzh/soccershopping@0.0.171/css/all-build.css
 https://cdn.jsdelivr.net/gh/VTS2018/themelib@v0.2/001_MaterialDesign/css/materialdesignicons.min.css
 
 合并时不要使用小写
-https://cdn.jsdelivr.net/gh/vts2018/themelib@v0.2/001_materialdesign/css/materialdesignicons.min.css
 
+https://cdn.jsdelivr.net/gh/vts2018/themelib@v0.2/001_materialdesign/css/materialdesignicons.min.css
 
 https://cdn.jsdelivr.net/gh/vts2018/themelib@v0.3/frontend.css
 
@@ -53,21 +52,10 @@ gh/VTS2018/themelib@v0.4/002_pretty/pretty.min.css
 https://cdn.jsdelivr.net/combine/gh/VTS2018/themelib@v0.2/001_MaterialDesign/css/materialdesignicons.min.css,gh/VTS2018/themelib@v0.4/002_pretty/pretty.min.css
 
 
-
-
-
-
-
-
 https://cdn.jsdelivr.net/gh/twbs/bootstrap@v3.3.7/dist/css/bootstrap.min.css
 
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/css/bootstrap.css" integrity="sha256-fmMNkMcjSw3xcp9iuPnku/ryk9kaWgrEbfJfKmdZ45o=" crossorigin="anonymous">
-
-
-
-
-
 
 
 
